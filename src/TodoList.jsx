@@ -31,7 +31,9 @@ const TodoList = () => {
   };
 
   const toggleTaskCompletion = (index) => {
-    const newTasks = tasks.map((task, i) => i === index ? { ...task, completed: !task.completed } : task);
+    const newTasks = tasks.map((task, i) => 
+      i === index ? { ...task, completed: !task.completed } : task
+    );
     setTasks(newTasks);
   };
 
