@@ -7,4 +7,4 @@ Here's what you can do with it:
 -Remove Tasks: Tasks that are no longer needed can be removed with a simple click.
 -Filter Tasks: Filter your tasks to view all, only completed, or only incomplete tasks.
 -Sort Tasks: Sort your tasks alphabetically or by their completion status.
--Persistent Storage: Your tasks are saved in your browser's local storage, so they won't disappear when you refresh the page.(currently being worked upon)
+-Persistent Storage: Your tasks are saved in your browser's local storage, so they won't disappear when you refresh the page (currently being worked upon)
